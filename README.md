@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am Benjamin Zeng. I have experience programming in Java and Python! I love working on projects that improve people's daily lives!
+Hey! My name is Benjamin Zeng. I have experience programming in Java, Python, and JavaScript! I love working on projects that improve people's daily lives!
 
 
 ## 🌐 Socials:
